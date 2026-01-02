@@ -82,5 +82,5 @@
 
 ## Author
 
-* **Queeny**
+* **Joy Haveela**
 * Aspiring Data Analyst
